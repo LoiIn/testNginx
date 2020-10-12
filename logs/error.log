@@ -1,0 +1,139 @@
+2020/10/10 00:28:55 [emerg] 9160#14664: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 00:32:44 [emerg] 15924#12116: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 00:34:16 [emerg] 7244#9404: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 00:36:06 [error] 16064#13168: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2020/10/10 00:36:18 [error] 16064#13168: *1 CreateFile() "C:\nginx/html/getweather/getTemp" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /getweather/getTemp HTTP/1.1", host: "localhost:8080"
+2020/10/10 01:01:51 [emerg] 3084#1228: bind() to 0.0.0.0:8080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 01:04:21 [emerg] 10076#13888: bind() to 0.0.0.0:8080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 01:06:00 [error] 11084#10948: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2020/10/10 01:06:10 [error] 11084#10948: *1 CreateFile() "C:\nginx/html/getTemp/hanoi" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /getTemp/hanoi HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/getTemp/hanoi"
+2020/10/10 01:06:17 [error] 11084#10948: *1 CreateFile() "C:\nginx/html/getTemp/hanotokyo" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /getTemp/hanotokyo HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/getTemp/hanotokyo"
+2020/10/10 01:07:40 [emerg] 11228#5072: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 01:09:04 [emerg] 13384#11504: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 01:09:04 [alert] 4768#6408: worker process 13384 exited with code 1
+2020/10/10 01:09:04 [alert] 4768#6408: could not respawn worker
+2020/10/10 01:09:10 [emerg] 4656#5728: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 01:09:13 [emerg] 16388#7584: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 01:09:43 [emerg] 12724#2284: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 01:17:08 [emerg] 752#4256: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 01:17:09 [emerg] 16968#1660: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 01:17:09 [emerg] 15844#14580: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 01:17:46 [emerg] 5840#13720: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 01:18:20 [emerg] 9228#11332: bind() to 0.0.0.0:8080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 01:20:10 [error] 9560#15040: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2020/10/10 01:20:15 [error] 9560#15040: *1 CreateFile() "C:\nginx/html/getTemp/hanoi" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /getTemp/hanoi HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/getTemp/hanoi"
+2020/10/10 01:23:29 [error] 9828#8608: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/"
+2020/10/10 01:23:50 [error] 9828#8608: *1 CreateFile() "C:\nginx/html/getTemp/hanoi" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /getTemp/hanoi HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/getTemp/hanoi"
+2020/10/10 01:24:05 [error] 9828#8608: *1 CreateFile() "C:\nginx/html/getTemp/hanotokyo" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /getTemp/hanotokyo HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/getTemp/hanotokyo"
+2020/10/10 01:36:42 [emerg] 10364#12180: bind() to 0.0.0.0:8080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 01:36:57 [emerg] 17368#6724: bind() to 0.0.0.0:8080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 01:59:15 [emerg] 3260#12144: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 01:59:15 [alert] 10744#3384: worker process 3260 exited with code 1
+2020/10/10 01:59:15 [alert] 10744#3384: could not respawn worker
+2020/10/10 01:59:27 [emerg] 16556#13936: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 01:59:41 [emerg] 11912#14736: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 01:59:52 [emerg] 15540#11596: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 02:03:38 [emerg] 7100#13556: duplicate location "/" in C:\nginx/conf/nginx.conf:59
+2020/10/10 02:03:38 [alert] 17248#7884: worker process 7100 exited with code 1
+2020/10/10 02:03:38 [alert] 17248#7884: could not respawn worker
+2020/10/10 02:03:59 [emerg] 4048#15072: duplicate location "/" in C:\nginx/conf/nginx.conf:59
+2020/10/10 02:04:09 [emerg] 2168#15364: duplicate location "/" in C:\nginx/conf/nginx.conf:59
+2020/10/10 02:05:08 [alert] 17368#8948: *1024 1024 worker_connections are not enough while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:8080/", host: "localhost"
+2020/10/10 02:05:16 [alert] 17368#8948: *2047 1024 worker_connections are not enough while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /getTemp/hanoi HTTP/1.0", upstream: "http://127.0.0.1:8080/getTemp/hanoi", host: "localhost"
+2020/10/10 09:23:20 [error] 2548#17224: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:8080/", host: "localhost:8080"
+2020/10/10 09:23:21 [alert] 2548#17224: *1026 1024 worker_connections are not enough while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:8080/", host: "localhost:8080"
+2020/10/10 09:23:48 [emerg] 8468#16132: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/10/10 10:42:00 [emerg] 12116#13764: host not found in "somename:8080" of the "listen" directive in C:\nginx/conf/nginx.conf:92
+2020/10/10 10:46:01 [error] 16248#12664: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/"
+2020/10/10 14:42:24 [error] 416#7596: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/"
+2020/10/10 14:50:43 [error] 416#7596: *11 CreateFile() "C:\nginx/html/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 14:50:59 [error] 416#7596: *11 CreateFile() "C:\nginx/html/weather/getTemp/hanoi" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weather/getTemp/hanoi HTTP/1.1", host: "localhost:6969"
+2020/10/10 14:51:57 [error] 416#7596: *11 CreateFile() "C:\nginx/html/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 14:52:53 [error] 1576#4240: *1 CreateFile() "C:\nginx/html/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 14:57:47 [error] 8892#15136: *2 CreateFile() "C:\nginx/html/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 14:58:40 [error] 8892#15136: *4 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/"
+2020/10/10 14:58:49 [error] 8892#15136: *4 CreateFile() "C:\nginx/html/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 15:04:36 [error] 10888#13320: *1 CreateFile() "C:\nginx/html/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 15:04:36 [error] 10888#13320: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/weather"
+2020/10/10 15:05:26 [emerg] 13764#4372: unknown directive "weather/index" in C:\nginx/conf/nginx.conf:45
+2020/10/10 15:05:26 [alert] 10936#2268: worker process 13764 exited with code 1
+2020/10/10 15:05:26 [alert] 10936#2268: could not respawn worker
+2020/10/10 15:05:41 [emerg] 3576#1136: unknown directive "weather/index" in C:\nginx/conf/nginx.conf:45
+2020/10/10 15:16:09 [emerg] 14816#14720: directive "location" has no opening "{" in C:\nginx/conf/nginx.conf:39
+2020/10/10 15:16:09 [alert] 10936#13704: worker process 14816 exited with code 1
+2020/10/10 15:16:09 [alert] 10936#13704: could not respawn worker
+2020/10/10 15:16:16 [emerg] 15036#15140: directive "location" has no opening "{" in C:\nginx/conf/nginx.conf:39
+2020/10/10 15:23:29 [error] 10236#14776: *1 CreateFile() "C:\nginx/html/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 15:29:22 [error] 1420#11164: *1 CreateFile() "C:\nginx/html/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 15:29:23 [error] 1420#11164: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/weather"
+2020/10/10 15:29:28 [error] 1420#11164: *1 "C:\nginx/html/weather/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weather/ HTTP/1.1", host: "localhost:6969"
+2020/10/10 15:31:07 [error] 8760#336: *1 CreateFile() "C:\nginx/html/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 15:32:20 [error] 13500#8396: *1 CreateFile() "C:\nginx/html/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 15:32:31 [error] 13500#8396: *3 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/"
+2020/10/10 15:32:35 [error] 13500#8396: *3 CreateFile() "C:\nginx/html/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 15:38:34 [error] 13500#8396: *4 CreateFile() "C:\nginx/html/error_page" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /error_page HTTP/1.1", host: "localhost:6969"
+2020/10/10 15:39:33 [error] 8260#14776: *1 CreateFile() "C:\nginx/html/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 15:42:53 [error] 14940#9168: *1 CreateFile() "C:\nginx/html/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 15:42:54 [error] 14940#9168: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/weather"
+2020/10/10 15:43:57 [error] 14940#9168: *4 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/"
+2020/10/10 15:44:25 [error] 14940#9168: *4 CreateFile() "C:\nginx/html/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 16:31:47 [error] 9456#1540: *1 CreateFile() "C:/weather/weather" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 16:31:47 [error] 9456#1540: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/weather"
+2020/10/10 16:31:54 [error] 9456#1540: *1 CreateFile() "C:\nginx/html/weather/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weather/index.html HTTP/1.1", host: "localhost:6969"
+2020/10/10 16:32:51 [error] 2956#1244: *1 "C:\nginx/html/weather/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weather/ HTTP/1.1", host: "localhost:6969"
+2020/10/10 16:33:37 [error] 11100#7648: *1 CreateFile() "C:\nginx/weather/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 16:33:38 [error] 11100#7648: *1 CreateFile() "C:\nginx/weather/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 16:33:39 [error] 11100#7648: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/weather"
+2020/10/10 16:33:39 [error] 11100#7648: *1 CreateFile() "C:\nginx/weather/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 16:33:39 [error] 11100#7648: *1 CreateFile() "C:\nginx/weather/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 16:33:39 [error] 11100#7648: *2 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/weather"
+2020/10/10 16:33:39 [error] 11100#7648: *2 CreateFile() "C:\nginx/weather/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 16:33:39 [error] 11100#7648: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/weather"
+2020/10/10 16:33:40 [error] 11100#7648: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/weather"
+2020/10/10 16:33:40 [error] 11100#7648: *1 CreateFile() "C:\nginx/weather/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 16:33:40 [error] 11100#7648: *1 CreateFile() "C:\nginx/weather/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 16:33:40 [error] 11100#7648: *2 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/weather"
+2020/10/10 16:33:40 [error] 11100#7648: *2 CreateFile() "C:\nginx/weather/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 16:33:40 [error] 11100#7648: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/weather"
+2020/10/10 16:33:40 [error] 11100#7648: *1 CreateFile() "C:\nginx/weather/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 16:33:40 [error] 11100#7648: *2 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/weather"
+2020/10/10 16:33:40 [error] 11100#7648: *2 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/weather"
+2020/10/10 16:33:40 [error] 11100#7648: *2 CreateFile() "C:\nginx/weather/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 16:33:40 [error] 11100#7648: *2 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/weather"
+2020/10/10 16:35:19 [error] 5992#9452: *1 CreateFile() "C:\nginx/weather/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 16:36:19 [notice] 5416#3012: signal process started
+2020/10/10 16:36:27 [error] 12760#8128: *4 CreateFile() "C:\nginx/weather/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 16:37:01 [notice] 8420#9272: signal process started
+2020/10/10 16:37:15 [error] 12760#8128: *5 CreateFile() "C:\nginx/weather/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 16:37:17 [error] 12760#8128: *6 CreateFile() "C:\nginx/weather/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 16:37:36 [error] 10116#10928: *7 CreateFile() "C:\nginx/html/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 17:43:31 [emerg] 12156#5540: invalid return code "index.html" in C:\nginx/conf/nginx.conf:46
+2020/10/10 17:43:46 [notice] 12732#508: signal process started
+2020/10/10 17:43:59 [error] 9772#9492: *14 CreateFile() "C:\nginx/html/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 17:50:54 [notice] 1976#2092: signal process started
+2020/10/10 17:51:05 [error] 9508#8056: *17 CreateFile() "C:/weather/weather" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 17:51:05 [error] 9508#8056: *17 CreateFile() "C:/html/favicon.ico" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/weather"
+2020/10/10 17:51:12 [error] 9508#8056: *17 CreateFile() "C:/weather/weather" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 17:51:31 [notice] 10884#908: signal process started
+2020/10/10 17:51:36 [error] 9508#8056: *18 "C:/html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:6969"
+2020/10/10 17:51:39 [error] 9508#8056: *19 "C:/html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:6969"
+2020/10/10 17:52:06 [notice] 12116#12056: signal process started
+2020/10/10 17:52:40 [notice] 3008#12064: signal process started
+2020/10/10 17:52:50 [error] 4600#13828: *23 CreateFile() "C:/weather/weather" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 17:53:56 [notice] 9688#8156: signal process started
+2020/10/10 17:54:04 [error] 10480#5988: *26 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/"
+2020/10/10 17:54:49 [notice] 3076#6800: signal process started
+2020/10/10 17:54:58 [notice] 4888#14120: signal process started
+2020/10/10 17:59:50 [error] 10784#13856: *4 CreateFile() "C:/weather/weather" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 18:00:00 [error] 10784#13856: *4 CreateFile() "C:/weather/weather/50x.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weather/50x.html HTTP/1.1", host: "localhost:6969"
+2020/10/10 18:06:01 [notice] 10944#1420: signal process started
+2020/10/10 18:06:12 [error] 10704#11804: *8 CreateFile() "C:/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 18:06:24 [error] 10704#11804: *8 CreateFile() "C:/weather/test_index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /weather/test_index.html HTTP/1.1", host: "localhost:6969"
+2020/10/10 18:08:55 [notice] 10132#1404: signal process started
+2020/10/10 18:09:13 [error] 5028#11844: *10 CreateFile() "C:/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 18:09:23 [error] 5028#11844: *10 CreateFile() "C:/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/10 18:12:05 [emerg] 12404#3560: invalid location modifier "~^" in C:\nginx/conf/nginx.conf:46
+2020/10/10 18:12:11 [notice] 1436#5912: signal process started
+2020/10/10 18:12:16 [error] 5324#3100: *12 CreateFile() "C:/weather" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /weather HTTP/1.1", host: "localhost:6969"
+2020/10/12 10:30:26 [error] 9476#11452: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:6969", referrer: "http://localhost:6969/"
+2020/10/12 11:36:42 [notice] 13436#4792: signal process started
